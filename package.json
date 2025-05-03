@@ -8,7 +8,7 @@
   "keywords": [],
   "author": "Bright Bediako",
   "license": "ISC",
-  "description": "Nodejs calculator app",
+  "description": "Nodejs calculator app using terminal",
   "dependencies": {
     "colors": "^1.4.0"
   }
